@@ -1,0 +1,6 @@
+{
+  "name": "Kindred Lanterns",
+  "description": "A cooperative twilight action-puzzle game for couples where two spirits linked by a luminous silk tether awaken ancient sanctuaries and banish shadows together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
